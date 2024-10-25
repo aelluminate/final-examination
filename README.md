@@ -1,6 +1,6 @@
 ![banner](https://i.imgur.com/1ce57R2.png)
 
-### Instrutions: General
+## Instructions
 
 1. Within 27 hours, please submit your GitHub account details: *username*, *full name*, and *email address* used to register your GitHub account, strictly do not submit your school email address. Follow these steps to submit your information:
    - Submit your information using this link, [docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1dz6iuMi14qbDtUvI7mKz9jQ5wk5xPadPB3wXdwchesU/edit?usp=sharing).
@@ -14,35 +14,39 @@
       > *Question, why do we need to submit a Github account? To better prepare you for the job market. As per the department, CpE, we've decided to transition from GitLab to GitHub, the leading platform for project collaboration and sharing.*
 
       ❗**NOTES**: 
-      1. Your final output will be graded individually based on your adherence to these instructions. **Failure** to submit will result in a **deduction** of **90 points** from your individual final grade. Please note that the final grade is calculated on a scale of 0-100.
-      2. After **twenty-seven (27) hours**, the submission will be **closed**. Please ensure that you submit your information before the deadline or you will receive a deduction of 90 points from your individual final grade as stated in the first note.
-      3. **To those who have submitted their information, you'll be granted a one activity point for your participation in this submission.**
+      1. To receive a grade for your final output, please follow these instructions above, carefully. **Failure** to submit will lead to a **failing grade** for the final exam. The final grade is calculated on a scale of 0-100.
+      2. After **twenty-seven (27) hours**, the submission will be **closed**. Please ensure that you submit your information before the deadline or **you will be graded 0** from your individual final grade as stated in the first note.
+      3. **To those who have submitted their information, you'll be granted a one activity point, which is 20 points, for your participation in this submission.**
 
-2. Choose your own dataset from these great resources:
+2. Choose your own dataset ONLY from these great resources:
 
-   - Kaggle
-   - Google Dataset Search
-   - Data.gov
-   - Datahub.io
+   - [Google Dataset Search](https://datasetsearch.research.google.com/)
+   - [Data.gov](https://www.data.gov/)
+   - [Datahub.io](https://datahub.io/)
 
 3. Each group must choose a **unique dataset**. **Duplicate** datasets **will not be accepted** and will result in a **failing grade for both submissions**.
    - ❗**NOTE**: Projects within this organization aren't not allowed to be used as your final examination output. 
 4. This is a group final examination. You are allowed to work in groups of **3 members**.
 5. You have **twenty-seven (27) hours** to complete the final examination.
 
-### Process
+## Process
 The following processes are essential components of your project and will be evaluated accordingly. Please ensure that each process is included to receive the corresponding points.
 
 1. Exploratory Data Analysis (EDA) - 5%
+   > Dataset URL must be included, it is where you've downloaded the dataset.
 2. Data Cleaning and Preprocessing - 5%
-4. Data Visualization - 10%
-5. Model Development - 10%
-   - Use at least **four (4) algorithms**.
-6. Model Evaluation - 10%
-   - Model's performance must at least be **85%**.
-7. Documentation - 60%
+3. Data Visualization - 10%
+4. Model Development - 10%
+   > Use at least **four (4) algorithms**.
+5. Model Evaluation - 10%
+   > Model's performance must at least be **85%**.
+6. Documentation - 60%
 
-### Submission
+   > *Question, why does documentation have the highest weight? Documentation is a crucial part of the project. It is where you can showcase your understanding of the project, the dataset, the model, and the results. It is where you can explain your findings and insights from the analysis. It is where you can demonstrate your ability to communicate your work effectively.*
+
+   ❗ **NOTE**: Every section must be indicated in your final output to receive the corresponding points.
+
+## Submission
 
 1. Create a `README.md` file that contains the following sections:
    - Title
@@ -61,3 +65,23 @@ The following processes are essential components of your project and will be eva
    ❗ **NOTE**: This `README.md` file must be inside the root directory of your project folder.
 
 2. Submit the GitHub link of your project to this link, [forms.gle](https://forms.gle/hdQpw3TmXUHQFyBu7), together with your group members' information.
+
+   > *Questions, why do we need to submit a GitHub link? To ensure that you have followed the instructions and have submitted your project on time. After, we will fork the main branch of your project to review your final output and we will showcase your project in our organization's repository.*
+
+## FAQs
+
+**Why there's a lot of instructions to be followed?**  
+> *The instructions are provided to ensure that you have a clear understanding of the project and to guide you on what to do.*
+
+**Why do we need to submit our GitHub account?**
+> *As per the department, CpE, we've decided to transition from GitLab to GitHub, the leading platform for project collaboration and sharing and to better prepare you for the job market, we need to ensure that you have a GitHub account.*
+
+**Why do need to join the organization?**
+> *So we can make you as a contributor after we fork your project to our organization's repository and so you can access private repositories within the organization which includes exclusive resources and projects. (e.g., hackathons, workshops, and more)*
+
+**Can we use the projects within this organization as our final examination output?**  
+> *No, projects within this organization aren't allowed to be used as your final examination output.*
+
+**Can we use the datasets from the projects within this organization?**
+> *Only allowed datasets are from the provided resources. Projects within this organization aren't allowed to be used as your final examination output.*
+
