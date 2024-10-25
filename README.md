@@ -78,6 +78,8 @@ The following processes are essential components of your project and will be eva
 
 **Why do need to join the organization?**
 > *So we can make you as a contributor after we fork your project to our organization's repository and so you can access private repositories within the organization which includes exclusive resources and projects. (e.g., hackathons, workshops, and more)*
+>
+> *Being part of this community is a great opportunity to learn and collaborate with other students and professionals and we're excited to have you on board. So welcome to the community! We can't wait to see your projects!*
 
 **Can we use the projects within this organization as our final examination output?**  
 > *No, projects within this organization aren't allowed to be used as your final examination output.*
