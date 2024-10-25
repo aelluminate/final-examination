@@ -46,8 +46,10 @@ The following processes are essential components of your project and will be eva
 
    > *Question, why does documentation have the highest weight? Documentation is a crucial part of the project. It is where you can showcase your understanding of the project, the dataset, the model, and the results. It is where you can explain your findings and insights from the analysis. It is where you can demonstrate your ability to communicate your work effectively.*
 
-   ❗ **NOTE**: Every section must be indicated in your final output to receive the corresponding points.
+   ❗ **NOTE**: Every section must be indicated in your final output to receive the corresponding points. *(refer to the image below for guidance.)*
 
+   ![alt text](image.png)
+   > As you notice, each section was indicated. 
 ## Submission
 
 1. Create a `README.md` file that contains the following sections:
