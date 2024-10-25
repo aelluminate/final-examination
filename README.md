@@ -18,7 +18,7 @@
       2. After **twenty-seven (27) hours**, the submission will be **closed**. Please ensure that you submit your information before the deadline or **you will be graded 0** from your individual final grade as stated in the first note.
       3. **To those who have submitted their information, you'll be granted a one activity point, which is 20 points, for your participation in this submission.**
 
-2. Choose your own dataset ONLY from these great resources:
+2. Choose your own dataset **ONLY** from these great resources:
 
    - [Google Dataset Search](https://datasetsearch.research.google.com/)
    - [Data.gov](https://www.data.gov/)
@@ -33,7 +33,9 @@
 The following processes are essential components of your project and will be evaluated accordingly. Please ensure that each process is included to receive the corresponding points.
 
 1. Exploratory Data Analysis (EDA) - 5%
-   > Dataset URL must be included, it is where you've downloaded the dataset.
+   > Dataset URL must be included, it is where you've downloaded the dataset. So we can verify if the dataset is from the provided resources.
+   >
+   > Uploading the dataset from the provided resources to the other sources is not allowed, and it will make your project invalid. **ITS CHEATING!**
 2. Data Cleaning and Preprocessing - 5%
 3. Data Visualization - 10%
 4. Model Development - 10%
