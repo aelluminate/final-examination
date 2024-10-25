@@ -56,7 +56,8 @@ The following processes are essential components of your project and will be eva
    - Summary of Findings
    - Data Preprocessing
    - Exploratory Data Analysis
-     - Visualization (each visualization must have a corresponding interpretation)
+  
+      > Visualization (each visualization must have a corresponding interpretation)
    - Model Development
    - Model Evaluation (each model must have its own evaluation)
    - Conclusion
