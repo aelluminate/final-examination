@@ -66,7 +66,11 @@ The following processes are essential components of your project and will be eva
 
    ❗ **NOTE**: This `README.md` file must be inside the root directory of your project folder.
 
-2. Submit the GitHub link of your project to this link, [forms.gle](https://forms.gle/hdQpw3TmXUHQFyBu7), together with your group members' information.
+2. Upload your project to your personal GitHub account. Make sure that your project is in **public** visibility.
+
+   > We cannot fork and review your project if it is in private visibility.
+
+3. Submit the GitHub link of your project to this link, [forms.gle](https://forms.gle/hdQpw3TmXUHQFyBu7), together with your group members' information.
 
    > *Questions, why do we need to submit a GitHub link? To ensure that you have followed the instructions and have submitted your project on time. After, we will fork the main branch of your project to review your final output and we will showcase your project in our organization's repository.*
 
