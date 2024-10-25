@@ -9,7 +9,7 @@
    - Go to this link, [aelluminate/people](https://github.com/orgs/aelluminate/people).
    - Search for your account and change its status from "Private" to "Public." *(Refer to the image below for guidance.)*
   
-      ![alt text](/assets//image.png)
+      ![alt text](/assets/team.png)
 
       > *Question, why do we need to submit a Github account? To better prepare you for the job market. As per the department, CpE, we've decided to transition from GitLab to GitHub, the leading platform for project collaboration and sharing.*
 
@@ -80,6 +80,21 @@ The following processes are essential components of your project and will be eva
 > *So we can make you as a contributor after we fork your project to our organization's repository and so you can access private repositories within the organization which includes exclusive resources and projects. (e.g., hackathons, workshops, and more)*
 >
 > *Being part of this community is a great opportunity to learn and collaborate with other students and professionals and we're excited to have you on board. So welcome to the community! We can't wait to see your projects!*
+
+**How do we know if our project is accepted?**
+> *Once you submit your project, we'll review it to ensure it meets the requirements. If your project is accepted, we'll:*
+> - *Check your personal accounts for the organization's logo if it's publicly available.*
+>
+>
+>     Refer to this image for guidance: 
+>      
+>     ![alt text](/assets/org-logo.png)
+>
+>     - How to check if it is publicly available? Copy your GitHub account URL and paste it in an incognito window. If you can see the organization's logo, then it is publicly available.
+> 
+> - *Fork your project to our organization's repository.*
+> 
+> *And then you'll receive an email notification if your project is accepted.*
 
 **Can we use the projects within this organization as our final examination output?**  
 > *No, projects within this organization aren't allowed to be used as your final examination output.*
