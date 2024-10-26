@@ -48,7 +48,7 @@ The following processes are essential components of your project and will be eva
 
    ❗ **NOTE**: Every section must be indicated in your final output to receive the corresponding points. *(refer to the image below for guidance.)*
 
-   ![alt text](image.png)
+   ![alt text](/assets/docu.png)
    > As you notice, each section was indicated. 
 ## Submission
 
